@@ -369,11 +369,9 @@ I want to understand **how an application works, where it can fail, why it fails
 
 # 📈 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad012-ui&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad012-ui&layout=compact&theme=github_dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad012-ui&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad012-ui&layout=compact&theme=github_dark&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -391,42 +389,25 @@ I want to understand **how an application works, where it can fail, why it fails
 I'm always interested in connecting with developers, QA engineers, designers, and people working on interesting projects.
 
 <p align="left">
-
-  <a href="https://github.com/ahmad012-ui" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-         width="35"
-         height="35"
-         alt="GitHub"/>
+  <a href="https://github.com/ahmad012-ui">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/ahmad.rehmn" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F"
-         width="35"
-         height="35"
-         alt="Instagram"/>
+  <a href="https://www.instagram.com/ahmad.rehmn">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="YOUR_X_URL" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000"
-         width="35"
-         height="35"
-         alt="X"/>
+  <a href="YOUR_X_PROFILE_URL">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="YOUR_FACEBOOK_URL" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2"
-         width="35"
-         height="35"
-         alt="Facebook"/>
+  <a href="YOUR_FACEBOOK_PROFILE_URL">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="https://codewithahmad.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ahmad012-ui/personal-portfolio/main/favicon.jpg"
-         width="35"
-         height="35"
-         alt="Portfolio"/>
+  <a href="https://codewithahmad.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-
 </p>
 
 ---
