@@ -4,9 +4,24 @@
 
 I'm a full-stack developer who enjoys turning ideas and designs into clean, responsive, and functional web applications.
 
-My background includes frontend development, backend development, UI/UX, manual QA, software testing, bug reporting, and debugging. This combination helps me look at applications from both a developer's and a user's perspective.
+My experience spans **frontend development, backend development, UI/UX, databases, manual QA, software testing, bug reporting, and debugging**. This allows me to look at applications from both a developer's and a user's perspective.
 
-I'm focused on building complete applications across the frontend, backend, database, and testing layers.
+I'm focused on building complete applications across the **frontend, backend, database, and testing layers**.
+
+---
+
+## 📋 Table of Contents
+
+* [About Me](#-about-me)
+* [Tech Stack](#-tech-stack)
+* [QA & Testing](#-qa--testing)
+* [Featured Projects](#-featured-projects)
+* [Other Projects](#-other-projects)
+* [What I Can Do](#-what-i-can-do)
+* [Currently Learning](#-currently-learning)
+* [Development Philosophy](#-development-philosophy)
+* [GitHub Stats](#-github-stats)
+* [Let's Connect](#-lets-connect)
 
 ---
 
@@ -16,7 +31,7 @@ I'm focused on building complete applications across the frontend, backend, data
 * 🎨 Background in UI/UX development and Figma-based design
 * 🧪 Hands-on experience with Manual QA and software testing
 * 🔍 Interested in finding, reproducing, documenting, and understanding bugs
-* 🌱 Continuously improving my skills in C#, ASP.NET MVC, SQL Server, React, and QA Automation
+* 🌱 Continuously improving my skills in **C#, ASP.NET MVC, SQL Server, React, TypeScript, and QA Automation**
 * ⚡ I enjoy building projects from the UI all the way to backend and database integration
 * 🛠️ Comfortable working with existing codebases and debugging real-world issues
 * 🎯 Focused on becoming a stronger full-stack developer with solid QA and automation skills
@@ -25,71 +40,61 @@ I'm focused on building complete applications across the frontend, backend, data
 
 # 💻 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,vite" />
 </p>
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* Bootstrap
-* Tailwind CSS
-* React
-* Vite
-* jQuery
-* React Router DOM
-* Chakra UI
+**Languages & Frameworks**
 
-### Backend & Database
+`HTML5` `CSS3` `JavaScript` `TypeScript`
+
+`React` `Vite` `Bootstrap` `Tailwind CSS`
+
+`jQuery` `React Router DOM` `Chakra UI`
+
+---
+
+### ⚙️ Backend & Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,cs,dotnet,mysql" />
 </p>
 
-* PHP
-* C#
-* ASP.NET MVC
-* .NET
-* MySQL
-* SQL Server
-* REST APIs
-* Database design and integration
+`PHP` `C#` `ASP.NET MVC` `.NET`
 
-### UI/UX & CMS
+`MySQL` `SQL Server`
+
+`REST APIs` `Database Design` `Database Integration`
+
+---
+
+### 🎨 UI/UX & CMS
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,wordpress" />
 </p>
 
-* Figma
-* UI/UX Design
-* Responsive Web Design
-* WordPress
-* Elementor
+`Figma` `UI/UX Design` `Responsive Web Design`
 
-### Development & Testing Tools
+`WordPress` `Elementor`
+
+---
+
+### 🧰 Tools & Testing
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,nodejs,npm,visualstudio" />
 </p>
 
-* Git
-* GitHub
-* Node.js
-* npm
-* Visual Studio
-* NuGet
-* Browser DevTools
-* Manual Testing
-* Functional Testing
-* Regression Testing
-* Bug Reporting
-* Test Case Design
-* API Testing
-* Debugging
+`Git` `GitHub` `Node.js` `npm`
+
+`Visual Studio` `NuGet` `Browser DevTools`
+
+`Manual Testing` `API Testing` `Bug Reporting`
+
+`Test Case Design` `Regression Testing` `Debugging`
 
 ---
 
@@ -104,23 +109,25 @@ Alongside full-stack development, I've built practical experience in software qu
 * Regression Testing
 * UI Testing
 * Form Validation Testing
-* Authentication and Authorization Testing
+* Authentication & Authorization Testing
 * Session Testing
 * API Testing
 * Database Testing
 * Bug Reproduction
 * Bug Documentation
-* Severity and Priority Analysis
+* Severity & Priority Analysis
 * Cross-browser Testing
 * Developer-side Debugging
 
-I also practice finding real-world bugs using dedicated testing platforms and applications, with the goal of continuing to develop my QA automation skills.
+I enjoy understanding **why something breaks**, reproducing the problem, identifying the underlying cause, and working toward a reliable fix.
+
+I'm also working toward expanding my skills into **QA Automation**.
 
 ---
 
 # 📂 Featured Projects
 
-## 💉 Vaccino — Vaccination Management System
+## 💉 [Vaccino — Vaccination Management System](https://github.com/ahmad012-ui/vaccination-management-system)
 
 A full-stack vaccination management system developed as an academic/team project.
 
@@ -132,45 +139,104 @@ A full-stack vaccination management system developed as an academic/team project
 * Dashboard functionality
 * Appointment-related functionality
 * Data visualization
+* Debugging and testing
 
 ### Technologies
 
 `PHP` `MySQL` `HTML` `CSS` `JavaScript` `Chart.js`
 
-### Database
+### Key Features
 
-The system includes entities such as:
+* 👤 User management
+* 🏥 Hospital management
+* 💉 Vaccine management
+* 📅 Appointment management
+* 📊 Hospital analytics dashboard
+* 📈 Appointment statistics
+* 🥧 Vaccine-type visualization
+* 📩 Contact message management
 
-* Users
-* Hospitals
-* Vaccines
-* Hospital Vaccines
-* Appointments
-* Contact Messages
-
-The hospital dashboard includes analytics such as appointments over the last 7 days and vaccines by type.
-
----
-
-## 🛒 MTCC Platform
-
-A modern full-stack platform built using React and Vite.
-
-### Technologies
-
-`React` `Vite` `Tailwind CSS` `JavaScript` `React Router DOM`
-
-The project focuses on building a modern responsive interface with reusable components and a clean frontend architecture.
+The database includes entities for users, hospitals, vaccines, hospital vaccines, appointments, and contact messages.
 
 ---
 
-## 🏢 NopCommerce / Aerport Portal
+## 🛡️ [MTCC Admin Portal](https://github.com/ahmad012-ui/MTCC-Admin-Portal)
 
-A real-world enterprise web application built with an existing ASP.NET and NopCommerce codebase.
+A modern admin dashboard interface developed as part of the MTCC platform work.
 
 ### Technologies
 
-`C#` `ASP.NET MVC` `.NET` `NopCommerce` `SQL Server` `HTML` `CSS` `JavaScript` `jQuery`
+`React` `Vite` `Tailwind CSS` `JavaScript`
+
+### Focus
+
+* Admin dashboard UI
+* Responsive layouts
+* Reusable components
+* Dashboard interfaces
+* Modern frontend architecture
+* Clean and consistent UI
+
+---
+
+## 🪑 [Furniro Furniture Landing Page](https://github.com/ahmad012-ui/Furniro-Furniture-Landing-Page)
+
+A responsive furniture landing page focused on translating a modern ecommerce-style design into a functional frontend interface.
+
+### Technologies
+
+`HTML` `CSS` `JavaScript`
+
+### Focus
+
+* Responsive design
+* Product presentation
+* Landing page structure
+* Modern UI implementation
+* Visual consistency
+
+---
+
+## 🌐 [Personal Portfolio](https://github.com/ahmad012-ui/personal-portfolio)
+
+My personal portfolio project for showcasing my development work, skills, and projects.
+
+### Technologies
+
+`HTML` `CSS` `JavaScript`
+
+The portfolio is continuously evolving as I learn new technologies and improve my development skills.
+
+---
+
+# 📁 Other Projects
+
+I've also worked on a variety of smaller applications and frontend experiments.
+
+| Project                                                                               | Description                   | Technologies     |
+| ------------------------------------------------------------------------------------- | ----------------------------- | ---------------- |
+| [YouTube Homepage](https://github.com/ahmad012-ui/Youtube_Homepage)                   | YouTube-inspired homepage UI  | HTML, CSS        |
+| [Report Card Generator](https://github.com/ahmad012-ui/report-card-generator)         | Generate student report cards | Web Technologies |
+| [Web Storage](https://github.com/ahmad012-ui/web-storage)                             | Browser storage experiment    | JavaScript       |
+| [E-Project](https://github.com/ahmad012-ui/E-project)                                 | Web development project       | HTML, CSS, JS    |
+| [Eid Greeting Landing Page](https://github.com/ahmad012-ui/eid-greeting-landing-page) | Eid-themed landing page       | HTML, CSS, JS    |
+| [Calculator](https://github.com/ahmad012-ui/Calculator)                               | Simple calculator application | HTML, CSS, JS    |
+| [Fun Quiz](https://github.com/ahmad012-ui/fun-quiz)                                   | Interactive quiz application  | JavaScript       |
+| [Green Leaf](https://github.com/ahmad012-ui/green-leaf)                               | Frontend web project          | Web Technologies |
+| [Coffee Hub](https://github.com/ahmad012-ui/coffe_hub)                                | Coffee-themed website         | Web Technologies |
+| [Animated Logo](https://github.com/ahmad012-ui/animated-logo)                         | Animated logo experiment      | HTML, CSS, JS    |
+
+---
+
+# 🏢 Professional Experience
+
+I've also worked with larger existing applications and enterprise codebases, including an **ASP.NET / NopCommerce-based portal**.
+
+### Technologies & Environment
+
+`C#` `ASP.NET MVC` `.NET` `NopCommerce`
+
+`SQL Server` `HTML` `CSS` `JavaScript` `jQuery`
 
 ### Experience
 
@@ -183,44 +249,9 @@ A real-world enterprise web application built with an existing ASP.NET and NopCo
 * Debugging IIS Express
 * Testing application functionality
 * Reporting and investigating bugs
+* Understanding existing application architecture
 
-This project has given me experience working beyond small personal projects and understanding how larger applications are structured.
-
----
-
-## 🛠️ Baadshah Tools
-
-A WordPress-based catalog website created for displaying products and tools.
-
-### Technologies
-
-`WordPress` `Elementor` `HTML` `CSS`
-
-The project focused on creating a clean product and catalog experience without requiring a traditional ecommerce checkout system.
-
----
-
-## ✍️ Scriptory
-
-A frontend blog and content website originally developed under the name Mindy Scripts.
-
-### Technologies
-
-`HTML` `CSS` `JavaScript`
-
-The project focused on frontend layout, content presentation, responsive design, and user experience.
-
----
-
-## 🌐 Personal Portfolio
-
-I've also built and maintained personal portfolio websites to showcase my development work, experiments, and full-stack skills.
-
-### Technologies I've used across my portfolio work
-
-`HTML` `CSS` `JavaScript` `React` `Vite` `Tailwind CSS`
-
-I'm continuing to improve my portfolio to better represent my current full-stack development and QA experience.
+Working with an existing codebase has helped me understand how larger applications differ from smaller personal projects.
 
 ---
 
@@ -262,7 +293,7 @@ I'm continuing to improve my portfolio to better represent my current full-stack
 * Create and consume APIs
 * Work with SQL Server
 * Design and integrate databases
-* Debug backend and frontend integration problems
+* Debug backend/frontend integration problems
 
 ### QA
 
@@ -296,21 +327,47 @@ Manual QA
 QA Automation
 ```
 
-My current focus is becoming stronger at building, testing, and maintaining complete software applications.
+My current focus is becoming stronger at **building, testing, debugging, and maintaining complete software applications**.
+
+---
+
+# 👨‍💻 Open To
+
+I'm interested in:
+
+* 💼 Full-stack development projects
+* 🎨 Frontend and UI/UX work
+* 🧪 QA and software testing opportunities
+* 🤖 QA automation projects
+* 💻 Freelance development
+* 🤝 Collaboration with developers and designers
+* 🌱 Open-source contributions
+* 🚀 Building interesting web applications
+
+---
+
+# 📊 Quick Stats
+
+* 💻 Full-Stack Development
+* 🎨 UI/UX & Frontend Development
+* 🧪 Manual QA & Software Testing
+* 🗄️ SQL & Database Development
+* 🌐 Multiple web development projects
+* 📚 Continuously learning and building
 
 ---
 
 # 🎯 My Development Philosophy
 
-> Build it. Break it. Understand it. Improve it.
+> **Build it. Break it. Understand it. Improve it.**
 
 I don't just want to make interfaces that look good.
 
-I want to understand how an application works, where it can fail, why it fails, and how to make it better.
+I want to understand **how an application works, where it can fail, why it fails, and how to make it better.**
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmad012-ui&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
@@ -329,7 +386,7 @@ I want to understand how an application works, where it can fail, why it fails, 
 
 # 🤝 Let's Connect
 
-I'm always interested in connecting with other developers, QA engineers, designers, and people working on interesting projects.
+I'm always interested in connecting with developers, QA engineers, designers, and people working on interesting projects.
 
 <p align="left">
   <a href="https://github.com/ahmad012-ui">
