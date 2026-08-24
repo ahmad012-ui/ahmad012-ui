@@ -389,29 +389,28 @@ I want to understand **how an application works, where it can fail, why it fails
 I'm always interested in connecting with developers, QA engineers, designers, and people working on interesting projects.
 
 <p align="left">
-  <a href="https://github.com/ahmad012-ui" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/181717" width="35" height="35" alt="GitHub" />
+  <a href="https://github.com/ahmad012-ui">
+    <img src="https://cdn.simpleicons.org/github/white" width="32" height="32" alt="GitHub" />
   </a>
-
-  <a href="https://www.instagram.com/ahmad.rehmn" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="35" height="35" alt="Instagram" />
+  &nbsp;
+  
+  <a href="https://www.instagram.com/ahmad.rehmn">
+    <img src="https://cdn.simpleicons.org/instagram/white" width="32" height="32" alt="Instagram" />
   </a>
+  &nbsp;
 
-  <a href="YOUR_X_PROFILE_URL" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="X" />
+  <a href="YOUR_LINKEDIN_PROFILE_URL">
+    <img src="https://cdn.simpleicons.org/linkedin/white" width="32" height="32" alt="LinkedIn" />
   </a>
+  &nbsp;
 
-  <a href="YOUR_FACEBOOK_PROFILE_URL" target="_blank">
-    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="35" height="35" alt="Facebook" />
+  <a href="YOUR_X_PROFILE_URL">
+    <img src="https://cdn.simpleicons.org/x/white" width="32" height="32" alt="X" />
   </a>
+  &nbsp;
 
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="35" height="35" alt="LinkedIn" />
-  </a>
-
-  <a href="https://codewithahmad.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/ahmad012-ui/personal-portfolio/main/favicon.jpg"
-         width="35" height="35" alt="Portfolio" />
+  <a href="YOUR_FACEBOOK_PROFILE_URL">
+    <img src="https://cdn.simpleicons.org/facebook/white" width="32" height="32" alt="Facebook" />
   </a>
 </p>
 
