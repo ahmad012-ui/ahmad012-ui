@@ -390,7 +390,7 @@ I'm always interested in connecting with developers, QA engineers, designers, an
 
 <p align="left">
   <a href="https://github.com/ahmad012-ui">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logoColor=white" />
   </a>
 
   <a href="https://www.instagram.com/ahmad.rehmn">
