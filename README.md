@@ -369,9 +369,11 @@ I want to understand **how an application works, where it can fail, why it fails
 
 # 📈 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmad012-ui&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad012-ui&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmad012-ui&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad012-ui&layout=compact&theme=github_dark&hide_border=true" height="180" />
 </p>
 
 ---
@@ -389,25 +391,42 @@ I want to understand **how an application works, where it can fail, why it fails
 I'm always interested in connecting with developers, QA engineers, designers, and people working on interesting projects.
 
 <p align="left">
-  <a href="https://github.com/ahmad012-ui">
-    <img src="https://raw.githubusercontent.com/ahmad012-ui/personal-portfolio/main/assets/github.png" width="35" height="35" />
+
+  <a href="https://github.com/ahmad012-ui" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+         width="35"
+         height="35"
+         alt="GitHub"/>
   </a>
 
-  <a href="https://www.instagram.com/ahmad.rehmn">
-    <img src="https://raw.githubusercontent.com/ahmad012-ui/personal-portfolio/main/assets/instagram.png" width="35" height="35" />
+  <a href="https://www.instagram.com/ahmad.rehmn" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F"
+         width="35"
+         height="35"
+         alt="Instagram"/>
   </a>
 
-  <a href="YOUR_X_PROFILE_URL">
-    <img src="https://raw.githubusercontent.com/ahmad012-ui/personal-portfolio/main/assets/x.png" width="35" height="35" />
+  <a href="YOUR_X_URL" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/000000"
+         width="35"
+         height="35"
+         alt="X"/>
   </a>
 
-  <a href="YOUR_FACEBOOK_PROFILE_URL">
-    <img src="https://raw.githubusercontent.com/ahmad012-ui/personal-portfolio/main/assets/facebook.png" width="35" height="35" />
+  <a href="YOUR_FACEBOOK_URL" target="_blank">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2"
+         width="35"
+         height="35"
+         alt="Facebook"/>
   </a>
 
-  <a href="https://codewithahmad.netlify.app/">
-    <img src="https://raw.githubusercontent.com/ahmad012-ui/personal-portfolio/main/assets/favicon.png" width="35" height="35" />
+  <a href="https://codewithahmad.netlify.app/" target="_blank">
+    <img src="https://raw.githubusercontent.com/ahmad012-ui/personal-portfolio/main/favicon.jpg"
+         width="35"
+         height="35"
+         alt="Portfolio"/>
   </a>
+
 </p>
 
 ---
